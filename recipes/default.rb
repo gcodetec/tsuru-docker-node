@@ -15,4 +15,4 @@ newrelic_server_monitor 'Install' do
   license newrelic_license
 end
 
-include_recipe 'tsuru-docker-node::docker'
+# include_recipe 'tsuru-docker-node::docker'
